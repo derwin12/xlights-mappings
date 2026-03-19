@@ -1,0 +1,24 @@
+{
+  "vendor": "Acme Lighting",
+  "props": [
+    { "name": "Arch 1",              "category": "Arch" },
+    { "name": "Arch 2",              "category": "Arch" },
+    { "name": "Arch 3",              "category": "Arch" },
+    { "name": "Candy Cane Left",     "category": "CandyCane" },
+    { "name": "Candy Cane Right",    "category": "CandyCane" },
+    { "name": "Flood 1",             "category": "Flood" },
+    { "name": "Flood 2",             "category": "Flood" },
+    { "name": "Flood 3",             "category": "Flood" },
+    { "name": "Matrix Front",        "category": "Matrix" },
+    { "name": "MegaTree",            "category": "MegaTree" },
+    { "name": "Roofline Left",       "category": "Horizontals" },
+    { "name": "Roofline Right",      "category": "Horizontals" },
+    { "name": "Snowflake 1",         "category": "Snowflake" },
+    { "name": "Snowflake 2",         "category": "Snowflake" },
+    { "name": "Star Burst",          "category": "Star" },
+    { "name": "Stake Row 1",         "category": "Stake" },
+    { "name": "Stake Row 2",         "category": "Stake" },
+    { "name": "Window Frame Front",  "category": "WindowFrame" },
+    { "name": "Wreath Front Door",   "category": "Wreath" }
+  ]
+}
